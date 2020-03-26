@@ -155,5 +155,13 @@
     font-family: 'incm' !important;
 }
 
+@font-face {
+	font-family: 'DeadKansas';
+	src: local('DeadKansas'), url('font/DeadKansas.ttf') format('truetype');
+}
+.font-DeadKansas {
+    font-family: 'DeadKansas' !important;
+}
+
 .txtm97 {height: 79px;text-decoration: none!important;}.txtm97:hover{border: solid 1px #b4afaf;}
 
