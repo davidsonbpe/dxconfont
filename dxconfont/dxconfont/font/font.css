@@ -122,5 +122,11 @@
     font-family: 'SegoeUI' !important;
 }
 
-
+@font-face {
+	font-family: 'DeadKansas';
+	src: local('DeadKansas'), url('./DeadKansas.ttf') format('truetype');
+}
+.font-DeadKansas {
+    font-family: 'DeadKansas' !important;
+}
 
