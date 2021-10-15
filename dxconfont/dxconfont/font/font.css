@@ -1,0 +1,132 @@
+@font-face {
+	font-family: 'MaterialIcons-Regular';
+	src: local('MaterialIcons-Regular'), url('./MaterialIcons-Regular.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'MaterialIcons-Regular' !important;
+}
+.font-MaterialIcons-Regular {
+    font-family: 'MaterialIcons-Regular' !important;
+}
+
+@font-face {
+	font-family: 'Dolceveta';
+	src: local('Dolceveta'), url('./Dolceveta.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'Oswald' !important;
+}
+.font-Oswald {
+    font-family: 'Oswald' !important;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Dolceveta'), url('./Roboto.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'Roboto' !important;
+}
+.font-Roboto {
+    font-family: 'Roboto' !important;
+}
+
+@font-face {
+	font-family: 'Oswald';
+	src: url('./Oswald.eot');
+	src: local('Oswald'), url('./Oswald.woff') format('woff'), url('./Oswald.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'Oswald' !important;
+}
+.font-Oswald {
+    font-family: 'Oswald' !important;
+}
+
+@font-face {
+	font-family: 'MAGNETOB';
+	src: url('./MAGNETOB.eot');
+	src: local('MAGNETOB'), url('./MAGNETOB.woff') format('woff'), url('./MAGNETOB.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'MAGNETOB' !important;
+}
+.font-MAGNETOB {
+    font-family: 'MAGNETOB' !important;
+}
+
+@font-face {
+	font-family: 'LCDBOLD';
+	src: url('./LCDBOLD.eot');
+	src: local('LCDBOLD'), url('./LCDBOLD.woff') format('woff'), url('./LCDBOLD.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'LCDBOLD' !important;
+}
+.font-LCDBOLD {
+    font-family: 'LCDBOLD' !important;
+}
+
+@font-face {
+	font-family: 'snap-itc';
+	src: local('snap-itc'), url('./snap-itc.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'snap-itc' !important;
+}
+.font-snapitc {
+    font-family: 'snap-itc' !important;
+}
+
+@font-face {
+	font-family: 'algemaria';
+	src: local('algemaria'), url('./algemaria.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'algemaria' !important;
+}
+.font-algemaria {
+    font-family: 'algemaria' !important;
+}
+
+@font-face {
+	font-family: 'ElectroShackle';
+	src: local('ElectroShackle'), url('./ElectroShackle.otf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'ElectroShackle' !important;
+}
+.font-ElectroShackle {
+    font-family: 'ElectroShackle' !important;
+}
+
+@font-face {
+	font-family: 'BladeRunnerMovieFont2';
+	src: local('BladeRunnerMovieFont2'), url('./BladeRunnerMovieFont2.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'BladeRunnerMovieFont2' !important;
+}
+.font-BladeRunnerMovie2 {
+    font-family: 'BladeRunnerMovieFont2' !important;
+}
+
+@font-face {
+	font-family: 'SegoeUI';
+	src: local('SegoeUI'), url('./SegoeUI.ttf') format('truetype');
+}
+.fontsforweb_fontid_11195 {
+	font-family: 'SegoeUI' !important;
+}
+.font-SegoeUI {
+    font-family: 'SegoeUI' !important;
+}
+
+@font-face {
+	font-family: 'DeadKansas';
+	src: local('DeadKansas'), url('./DeadKansas.ttf') format('truetype');
+}
+.font-DeadKansas {
+    font-family: 'DeadKansas' !important;
+}
+

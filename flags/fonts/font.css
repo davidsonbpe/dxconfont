@@ -1,0 +1,57 @@
+
+@font-face {
+	font-family: 'flags';
+	src: local('flags'), url('font/flags.ttf') format('truetype');
+}
+.font-flags {
+    font-family: 'flags' !important;
+}
+
+@font-face {
+	font-family: 'FlagsColorWorld01';
+	src: local('FlagsColorWorld01'), url('font/FlagsColorWorld01.ttf') format('truetype');
+}
+.font-FlagsColorWorld01 {
+    font-family: 'FlagsColorWorld01' !important;
+}
+
+@font-face {
+	font-family: 'FlagsColorWorld02';
+	src: local('FlagsColorWorld02'), url('font/FlagsColorWorld02.ttf') format('truetype');
+}
+.font-FlagsColorWorld02 {
+    font-family: 'FlagsColorWorld02' !important;
+}
+
+
+@font-face {
+	font-family: 'FlagsColorAL4Gx';
+	src: local('FlagsColorAL4Gx'), url('font/FlagsColorAL4Gx.ttf') format('truetype');
+}
+.font-FlagsColorAL4Gx {
+    font-family: 'FlagsColorAL4Gx' !important;
+}
+
+@font-face {
+	font-family: 'FlagsColorDOGd';
+	src: local('FlagsColorDOGd'), url('font/FlagsColorDOGd.ttf') format('truetype');
+}
+.font-FlagsColorDOGd {
+    font-family: 'FlagsColorDOGd' !important;
+}
+
+
+@font-face {
+	font-family: 'MyFont-AIUY';
+	src: local('MyFont-AIUY'), url('font/MyFont-AIUY.otf') format('truetype');
+}
+.font-MyFont-AIUY {
+    font-family: 'MyFont-AIUY' !important;
+}
+
+
+
+
+
+
+
