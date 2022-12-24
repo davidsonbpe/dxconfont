@@ -2,6 +2,8 @@
 
 # DxconFont
 https://davidsonbpe.github.io/dxconfont/
+....
+https://davidsonbpe.github.io/dxconfont/material-icons/
 
 
 # Install npm
